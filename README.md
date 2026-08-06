@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sandy
+# Sandy Afnan 
 
 **IT Support • Infrastructure • DevOps • Linux Enthusiast**
 
@@ -27,7 +27,7 @@ Currently focusing on:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,php,laravel,mysql,redis,nodejs,ts,react,tailwind,python,go,git,vscode&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,php,mysql,redis,git,bash,vim,laravel&perline=8"/>
 
 </p>
 
@@ -37,18 +37,6 @@ Currently focusing on:
 
 - 🐳 Docker Self-Hosted Services
 - ⚙️ Infrastructure Automation
-
-<br>
-
-## GitHub Stats
-
-<p>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=sndyyafnn&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sndyyafnn&layout=compact&hide_border=true&theme=transparent"/>
-
-</p>
 
 <br>
 
