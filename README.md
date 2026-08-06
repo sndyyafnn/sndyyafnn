@@ -1,16 +1,63 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sndyyafnn/sndyyafnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sandy
 
-Here are some ideas to get you started:
+**IT Support • Infrastructure • DevOps • Linux Enthusiast**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building reliable systems, exploring backend technologies, and turning ideas into production-ready applications.
+
+</div>
+
+<br>
+
+## About
+
+I'm passionate about infrastructure, backend development, and automation.
+
+Currently focusing on:
+
+- Docker & Containerization
+- Linux Administration
+- Networking
+- DevOps
+
+<br>
+
+## Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=linux,docker,nginx,php,laravel,mysql,redis,nodejs,ts,react,tailwind,python,go,git,vscode&perline=8"/>
+
+</p>
+
+<br>
+
+## Current Projects
+
+- 🐳 Docker Self-Hosted Services
+- ⚙️ Infrastructure Automation
+
+<br>
+
+## GitHub Stats
+
+<p>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sndyyafnn&show_icons=true&hide_border=true&theme=transparent"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sndyyafnn&layout=compact&hide_border=true&theme=transparent"/>
+
+</p>
+
+<br>
+
+## Connect
+
+<p>
+
+<a href="https://github.com/sndyyafnn">
+GitHub
+</a>
+
+</p>
