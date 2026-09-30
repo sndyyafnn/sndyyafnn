@@ -27,7 +27,7 @@ Currently focusing on:
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=linux,docker,nginx,php,mysql,redis,git,bash,vim,laravel&perline=8"/>
+<img src="https://skillicons.dev/icons?i=linux,docker, proxmox, nginx,php,mysql,postgresql,jenkins,redis,git,bash,laravel&perline=8"/>
 
 </p>
 
